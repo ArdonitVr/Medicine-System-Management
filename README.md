@@ -1,0 +1,2 @@
+# Medicine-System-Management
+The purpose of this project is the Management of the Medicines System by enabling functions such as: adding, modifying and deleting data. This project consists of the Back-end folder, the front-end folder, slimapp, vSMBR and the database: smbr. RESTfull API-Backend was developed through PHP micro framework SLIM version SLIM3. * (3.12.3) while RESTful API-Frontend was developed in Vue.js. The smbr database consists of or contains the main table drugs_smbr which consists of 8 columns
